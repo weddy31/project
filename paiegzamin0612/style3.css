@@ -1,0 +1,48 @@
+body {
+    font-family: Georgia;
+    background-color: #fffafa;
+}
+form {
+    margin:80px;
+}
+table {
+    color: white;
+    text-align: center;
+    width: 80%;
+    border: 1px dotted white;
+}
+tr:hover {
+    background-color: #d3d3d3;
+    color: black;
+}
+.naglowek {
+    display: flex;
+}
+.logo {
+    background-color: #ff7f50;
+    width: 25%;
+    height: 100px;
+}
+.baner {
+    background-color: #ff7f50;
+    text-align: center;
+    width: 75%;
+    height: 100px;
+    font-size: 130%;
+}
+.glowny {
+    background-color: #ff7f50;
+    padding: 70px;
+}
+.lewyprawy {
+    display: flex;
+}
+.lewy {
+    width: 40%;
+    height: 400px;
+}
+.prawy {
+    width: 60%;
+    height: 400px;
+    text-align: right;
+}
